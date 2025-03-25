@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "id": "1",
+      "relatedValue1": "",
+      "relatedValue2": ""
+    },
+    {
+      "id": "2",
+      "relatedValue1": "",
+      "relatedValue2": "0"
+    },
+    {
+      "id": "3",
+      "relatedValue1": "0",
+      "relatedValue2": ""
+    },
+    {
+      "id": "4",
+      "relatedValue1": "0",
+      "relatedValue2": "0"
+    },
+    {
+      "id": "5",
+      "relatedValue1": "",
+      "relatedValue2": "6"
+    },
+    {
+      "id": "6",
+      "relatedValue1": "-6",
+      "relatedValue2": ""
+    },
+    {
+      "id": "7",
+      "relatedValue1": 54321,
+      "relatedValue2": -0.07
+    },
+    {
+      "id": "8",
+      "relatedValue1": "0",
+      "relatedValue2": "8"
+    },
+    {
+      "id": "9",
+      "relatedValue1": "-4",
+      "relatedValue2": "0"
+    },
+    {
+      "id": "10",
+      "relatedValue1": "-5",
+      "relatedValue2": "12"
+    },
+    {
+      "id": "11",
+      "relatedValue1": "-4",
+      "relatedValue2": "11"
+    }
+  ]
+}
